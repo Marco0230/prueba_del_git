@@ -5,4 +5,4 @@ Puntos Importantes
 4.- git diff ~ "mostrara las diferencias que hay en el archivo"
 5.- git add . ~ "añade todos los archivos que han tenido cambios"
 6.- git commit -m ~ "git commit guardará todos los cambio hechos en la zona de montaje o área de preparación (staging area), junto con una breve descripción del usuario, en un "commit" al repositorio local. (el -m agrega comentarios)"
-7.- git push ~ sube todo al repo en GitHub
+7.- git push ~ sube todo al repositorio de GitHub
